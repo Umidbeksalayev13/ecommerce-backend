@@ -48,4 +48,10 @@ class User extends Authenticatable
     public function roles(){
        return $this->belongsToMany(Role::class);
     }
+    public function favorites(){
+        return $this->belongsToMany(Product::class);
+    }
+    public function hasFavorite($favorite_id){
+       return $this->favorites()->where('product_id',$favorite_id)->exists();
+    }
 }

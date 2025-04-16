@@ -1,0 +1,10 @@
+[33mae52c6e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m4a4ed71[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{1}: commit: Order creation, first commit
+[33mae52c6e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: Sorted products and authentication done
+[33m066a11e[m HEAD@{3}: commit: ProductResource, CategoryResource and Stockresource created
+[33m589c1a5[m HEAD@{4}: reset: moving to HEAD~1
+[33mece5e3b[m HEAD@{5}: commit: yangi
+[33m589c1a5[m HEAD@{6}: commit: product,attribute and stock models created
+[33m2276569[m HEAD@{7}: commit: User and Role models created and done
+[33m6b878eb[m HEAD@{8}: Branch: renamed refs/heads/master to refs/heads/main
+[33m6b878eb[m HEAD@{10}: commit (initial): project installed
